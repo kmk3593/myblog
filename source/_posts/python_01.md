@@ -5,6 +5,7 @@ tags:
 categories:
   - python
   - 기초문법
+  - 자료형, 반복문, 조건문
 author: "minkuen"
 date: '2022-03-22'
 ---
