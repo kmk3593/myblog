@@ -4,8 +4,8 @@ tags:
   - python
 categories:
   - python
+  - library
   - pandas
-  - tutorial
 author: "minkuen"
 date: '2022-03-23'
 ---

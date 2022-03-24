@@ -14,6 +14,10 @@ date: '2022-03-23'
 - 여러가지 라이브러리를 사용해보자
 
 # Numpy
+Q : what is numpy?
+
+A : 배열 연산이다.
+
 Q : why numpy?
 
 A : 두개의 리스트 연산 시도 → Type Error → Numpy 도입
