@@ -1,5 +1,5 @@
 ---
-title: "chapter1_3_김민균"
+title: "chapter1_3"
 tags:
   - python
   - machine learning
