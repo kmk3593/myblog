@@ -6,6 +6,7 @@ tags:
 categories:
   - python
   - machine learning
+  - 알고리즘
 author: "minkuen"
 date: '2022-04-02'
 ---

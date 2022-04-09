@@ -6,6 +6,7 @@ tags:
 categories:
   - python
   - machine learning
+  - 개념
 author: "minkuen"
 date: '2022-03-27'
 ---
@@ -597,3 +598,5 @@ print(35/49)
 - 2) fit() v
 - 3) score()
 - 4) transform()
+
+- Reference : 혼자 공부하는 머신러닝 + 딥러닝

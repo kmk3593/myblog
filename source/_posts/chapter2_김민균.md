@@ -6,6 +6,7 @@ tags:
 categories:
   - python
   - machine learning
+  - 데이터 전처리
 author: "minkuen"
 date: '2022-03-28'
 ---
@@ -465,7 +466,7 @@ plt.show()
 
 
     
-![png](/images/chapter2_김민균//images/chapter2_김민균/output_55_0.png)
+![png](/images/chapter2_김민균/output_55_0.png)
     
 
 
