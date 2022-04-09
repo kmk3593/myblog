@@ -434,3 +434,5 @@ plt.show()
 ![png](/images/chapter_6_3/output_44_0.png)
     
 
+- Reference : 혼자 공부하는 머신러닝 + 딥러닝
+
