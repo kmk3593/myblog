@@ -236,4 +236,6 @@ for regressor in regressors:
     DecisionTreeRegressor()
     Model r2 score:0.6365934810580942
     
-- Reference : 혼자 공부하는 머신러닝 + 딥러닝
+- Reference 
+  - Jay Hong, Data Leakage에 대한 개인적인 정리입니다, https://dacon.io/forum/403895
+  - Alexis Cook & Dan B, Data Leakage, https://www.kaggle.com/code/alexisbcook/data-leakage/tutorial
