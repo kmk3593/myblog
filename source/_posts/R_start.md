@@ -1173,3 +1173,5 @@ summary(res.aov) # p-value = 0.0159...
  스캔파일 → 앤디 필드의 유쾌한 R 통계학 → 머신러닝 있어서 어려움 & 에러도 섞여있을 것.
 
 [유쾌한 알 통계학.pdf - OneDrive (live.com)](https://onedrive.live.com/?authkey=%21AAAagXUFbVW02Fo&cid=6CEAAE74F154CC96&id=6CEAAE74F154CC96%21258758&parId=6CEAAE74F154CC96%21120928&o=OneUp)    강의실 pc에 다운로드 완료
+
+- Reference : R을 이용한 공공데이터 분석

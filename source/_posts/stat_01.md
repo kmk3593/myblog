@@ -433,6 +433,7 @@ summary(RA)
       3개 독립변수가 연비에 미치는 회귀계수(베타)는 hp가 -0.03(p<.05), wt가 -3.80(p<.01), disp는 없다.
       wt의 영향력이 가장 컸다."
 
+- Reference : R을 이용한 공공데이터 분석
 
 # End of Document
 
