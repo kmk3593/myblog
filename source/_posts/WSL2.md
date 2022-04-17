@@ -2,7 +2,7 @@
 title: "WSL2 install"
 tags:
   - wsl2
-  - Notion
+  - setting
 categories:
   - setting
   - wsl2
