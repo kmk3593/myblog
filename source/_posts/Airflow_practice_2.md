@@ -1,5 +1,5 @@
 ---
-title: "Airflow 실습"
+title: "Airflow 실습02"
 tags:
   - setting
   - airflow
@@ -7,7 +7,7 @@ categories:
   - setting
   - airflow
 author: "minkuen"
-date: '2022-04-20'
+date: '2022-04-21'
 ---
 
 ## 데이터베이스를 위한 아파치 에어플로 데이터 파이프라인 구축
