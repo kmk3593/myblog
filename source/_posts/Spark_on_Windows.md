@@ -7,8 +7,8 @@ categories:
   - spark
 author: "minkuen"
 date: '2022-04-25'
+---
   
-
 [Spark Installation on Windows 10 - Data Science | DSChloe](https://dschloe.github.io/python/python_edu/00_settings/spark_installation_windows_10/)
 
 ## 사전준비
