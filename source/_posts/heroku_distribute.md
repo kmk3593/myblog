@@ -6,7 +6,7 @@ categories:
   - chatbot
   - kakao_chatbot
 author: "minkuen"
-date: '2022-05-25'
+date: '2022-05-27'
 ---
 
 ## **개요**
@@ -24,16 +24,16 @@ date: '2022-05-25'
 
 - 카카오톡 채널 연결을 진행한다.
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled.png)
+![Untitled](/images/heroku_distribute/Untitled.png)
 
 - 바탕화면 폴더 생성 : chatbotnos
 - 깃허브 Repo 생성 : chatbotnos
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%201.png)
+![Untitled](/images/heroku_distribute/Untitled%201.png)
 
 - heroku app 생성 : chatbotnos
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%202.png)
+![Untitled](/images/heroku_distribute/Untitled%202.png)
 
 ### 나만의 주소 생성됨 : [https://chatbotnos.herokuapp.com/](https://chatbotnos.herokuapp.com/)
 
@@ -53,7 +53,7 @@ date: '2022-05-25'
     - 가상환경 생성 : `python -m venv venv`
     - 가상환경 진입 : `source venv/Scripts/activate`
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%203.png)
+![Untitled](/images/heroku_distribute/Untitled%203.png)
 
 ### Heroku App 구축
 
@@ -111,15 +111,15 @@ python-3.8.5
 - 구글링 : heroku cli
     - install the Heroky CLI
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%204.png)
+![Untitled](/images/heroku_distribute/Untitled%204.png)
 
 - 설치 진행
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%205.png)
+![Untitled](/images/heroku_distribute/Untitled%205.png)
 
 - 디폴트 설정으로 설치
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%206.png)
+![Untitled](/images/heroku_distribute/Untitled%206.png)
 
 ### Heroku login
 
@@ -132,11 +132,11 @@ heroku login
 
 - press any key : 아무 키나 입력한다
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%207.png)
+![Untitled](/images/heroku_distribute/Untitled%207.png)
 
 - 로그인 창이 출력된다.
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%208.png)
+![Untitled](/images/heroku_distribute/Untitled%208.png)
 
 - 로그인 진행
 
@@ -147,12 +147,12 @@ heroku login
 - 해당 링크에서 키워드 입력하고 ‘생성’
 - 키워드 : virtualenv, vs
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%209.png)
+![Untitled](/images/heroku_distribute/Untitled%209.png)
 
 - 복사 : ctrl + A
 - .gitignore 파일에 붙여넣어 완성
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%2010.png)
+![Untitled](/images/heroku_distribute/Untitled%2010.png)
 
  
 
@@ -198,7 +198,7 @@ $ git push heroku main ## Heroku 코드 배포
 
 - 배포 완료
 
-![Untitled](heroku%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%20d01cf217d2894fc1bd8294110d6c2d04/Untitled%2011.png)
+![Untitled](/images/heroku_distribute/Untitled%2011.png)
 
 ### 로그 확인
 

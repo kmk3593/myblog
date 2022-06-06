@@ -1,5 +1,5 @@
 ---
-title: "Heroku_server"
+title: "Heroku 가입"
 tags:
   - heroku
 categories:
@@ -9,9 +9,6 @@ author: "minkuen"
 date: '2022-05-25'
 ---
 
-
-
-# Heroku 가입
 
 > Heroku란?
 > 

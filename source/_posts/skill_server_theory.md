@@ -1,5 +1,5 @@
 ---
-title: "Kakao Skill Server"
+title: "Kakao 스킬서버"
 tags:
   - chatbot
   - kakao_chatbot
@@ -9,8 +9,6 @@ categories:
 author: "minkuen"
 date: '2022-05-26'
 ---
-
-# 스킬 서버 이론
 
 ### 챗봇에 다음과 같은 연산을 도입하게 위한 기능이다
 
