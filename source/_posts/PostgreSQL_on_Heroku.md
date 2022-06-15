@@ -1,6 +1,7 @@
 title: "PostgreSQL_on_Heroku"
 tags:
   - heroku
+  - postgreSQL
 categories:
   - chatbot
   - kakao_chatbot
@@ -9,7 +10,7 @@ date: '2022-06-02'
 ---
 
 
-## 헤로쿠에서 PostgreSQL 사용하기
+# 헤로쿠에서 PostgreSQL 사용하기
 
 ### heroku에서 postgresql 설치
 
@@ -22,7 +23,6 @@ date: '2022-06-02'
 ![Untitled](/images/PostgreSQL_on_Heroku/Untitled%201.png)
 
 - Heroku Postgres설치를 위해 Submit Order Form 클릭
-
 ![Untitled](/images/PostgreSQL_on_Heroku/Untitled%202.png)
 
 - Heroku Postgres 클릭
