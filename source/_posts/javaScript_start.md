@@ -1,5 +1,5 @@
----
-title: "Java Script practice"
+**---
+title: "Java Script start"
 tags:
   - setting
   - javascript
@@ -8,7 +8,7 @@ categories:
   - javascript
 author: "minkuen"
 date: '2022-06-07'
----
+---**
 
 ### 사전작업
 
