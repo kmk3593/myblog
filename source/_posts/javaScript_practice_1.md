@@ -54,7 +54,7 @@ console.log("new file!")
 - html 페이지에서 우클릭 → 검사
 - 다음과 같이 시스템 로그가 출력되었다.
 
-![Untitled](Ja/images/javaScript_practice_1/Untitled.png)
+![Untitled](/images/javaScript_practice_1/Untitled.png)
 
 ### Event
 
@@ -107,7 +107,7 @@ boxEl.addEventListener('click', function() {
 - 1을 마우스로 클릭하면 다음과 같이 출력된다.
 - Click이라는 이벤트를 감지하고 표시한다.
 
-![Untitled](Ja/images/javaScript_practice_1/Untitled%201.png)
+![Untitled](/images/javaScript_practice_1/Untitled%201.png)
 
 ### div class
 
@@ -151,7 +151,7 @@ boxE1s.forEach(function(boxE1, index){
 
 - 다음과 같이 시스템 로그가 출력되었다.
 
-![Untitled](Ja/images/javaScript_practice_1/Untitled%202.png)
+![Untitled](/images/javaScript_practice_1/Untitled%202.png)
 
 ### JS 구조 파악
 
@@ -175,4 +175,4 @@ boxE1s.forEach(function(boxE1, index){
 - index.html 의 1 2 3 4를 건드리지 않았음에도 다음과 같이 출력되었다.
 - 이를 통해 페이지에 최종적으로 영향을 미치는 것은 JS임을 알 수 있다.
 
-![Untitled](Ja/images/javaScript_practice_1/Untitled%203.png)
+![Untitled](/images/javaScript_practice_1/Untitled%203.png)
