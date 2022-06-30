@@ -1,17 +1,15 @@
 ---
 title: "html & css 기초 되집기"
 tags:
-  - setting
   - HTML
 categories:
   - frontEnd 
   - html & css
 author: "minkuen"
-date: '2022-06-14'
+date: '2022-06-15'
 ---
 
-``
-0607 - CSS
+
 
 ### 작업 시작
 

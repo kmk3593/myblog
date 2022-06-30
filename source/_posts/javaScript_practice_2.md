@@ -1,7 +1,6 @@
 ---
 title: "Java Script 실습2"
 tags:
-  - setting
   - javascript
 categories:
   - frontEnd 

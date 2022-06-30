@@ -1,7 +1,6 @@
 ---
 title: "html 기초 되집기"
 tags:
-  - setting
   - HTML
 categories:
   - frontEnd 
