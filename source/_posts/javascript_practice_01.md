@@ -9,7 +9,6 @@ author: "minkuen"
 date: '2022-06-16'
 ---
 
-0608 - JavaScript
 
 ### Java Script란?
 
