@@ -292,6 +292,6 @@ box.onmousedown = function(e){
 }
 ```
 
-- 캡쳐로는 차이가 없지만 클릭 후에만 이동하게 구현되었다
+- 캡처로만 봤을 때는 차이가 없지만 클릭 후에만 이동하게 구현되었다
 
 ![Untitled](/images/javaScript_event/Untitled%2011.png)
