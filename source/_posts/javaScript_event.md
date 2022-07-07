@@ -25,7 +25,7 @@ date: '2022-06-24'
 
 ### 이벤트 객체의 메서드(1)
 
-- EVENT 인터페이스가 최상단이며, UI > 키보드, 마우스(휠 포함) Event 인터페이스가 있음
+- EVENT 인터페이스가 최상단이며, UI > 키보드, 마우스(휠 포함) Event 인터페이스가 있다
 
 ![Untitled](/images/javaScript_event/Untitled%202.png)
 
