@@ -265,7 +265,7 @@ window.addEventListener("load", function(){
 ![Untitled](/images/javaScript_event/Untitled%2010.png)
 
 - 이번에는 사각형을 드래그하여 움직히에 한다
-- event_02.js에 다음 코드를 추가한다.
+- event_02.js에 다음 코드를 추가한다
 
 ```html
 let offset = {x:0, y:0};
@@ -292,6 +292,6 @@ box.onmousedown = function(e){
 }
 ```
 
-- 캡처로만 봤을 때는 차이가 없지만 클릭 후에만 이동하게 구현되었다
+- 캡처로만 봤을 때는 차이가 없지만 클릭 후에만 이동하도록 구현되었다
 
 ![Untitled](/images/javaScript_event/Untitled%2011.png)
