@@ -194,5 +194,3 @@ date: '2022-07-01'
 
 ![Untitled](/images/JS_AJAX_01/Untitled%2011.png)
 
-- 코드
-- index_01.html
