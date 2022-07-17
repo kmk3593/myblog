@@ -40,8 +40,8 @@ date: '2022-07-01'
 
 ### 비동기 통신 구현 원리
 
-- innerHTML을 활용하여 이벤트 발생시 article 태그에 문서 삽입함.
-- 문서 삽입은 querySelector를 활용함
+- innerHTML을 활용하여 이벤트 발생시 article 태그에 문서 삽입한다
+- 문서 삽입은 querySelector를 활용
 - ajax_01.html 일부
 
 ```html
@@ -89,7 +89,7 @@ date: '2022-07-01'
 ### 5.4.3. 비동기 통신 구현을 위한 TEST - 3
 
 - FETCH API는 전달하는 문서를 text로 받고, inner HTML을 통해 article tag에 문서를 포함
-- 이 때 response 객체를 통해서 성공여부를 확인할 수 있음. (AJAX의 기본은 마무리)
+- 이 때 response 객체를 통해서 성공여부를 확인할 수 있음 (AJAX의 기본은 마무리)
 
 ![Untitled](/images/JS_AJAX_01/Untitled%208.png)
 
