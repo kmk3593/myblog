@@ -6,7 +6,7 @@ categories:
   - frontEnd 
   - javascript
 author: "minkuen"
-date: '2022-07-01'
+date: '2022-07-02'
 ---
 
 
@@ -34,13 +34,13 @@ date: '2022-07-01'
 ### 비동기 통신의 탄생배경
 
 - 기존 웹문서는 구조가 바뀌면 모든 문서를 변경해야 하는 한계가 있음. (유지관리 비용 증가)
-- 한계를 극복하고자 비동기 통신이 탄생함.
+- 한계를 극복하고자 비동기 통신이 탄생함
 
 ![Untitled](/images/JS_AJAX_01/Untitled%203.png)
 
 ### 비동기 통신 구현 원리
 
-- innerHTML을 활용하여 이벤트 발생시 article 태그에 문서 삽입한다
+- innerHTML을 활용하여 이벤트 발생시 article 태그에 문서를 삽입한다
 - 문서 삽입은 querySelector를 활용
 - ajax_01.html 일부
 
