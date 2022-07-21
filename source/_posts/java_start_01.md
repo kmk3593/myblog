@@ -1,10 +1,10 @@
 ---
 title: "JAVA start"
 tags:
-  - setting
+  - Java
 categories:
   - Java
-  - setting
+  - 기초문법
 author: "minkuen"
 date: '2022-07-08'
 ---
