@@ -86,7 +86,7 @@ date: '2022-07-05'
 
 ### 버전 확인
 
-- 버전 확인으로 11버전이 출력되어야 한다
+- 다음 코드로 버전을 확인했을 때 11버전이 출력되어야 한다
 - `java -version`
 - `javac -version`
     - javac = java 컴파일러
@@ -104,7 +104,7 @@ date: '2022-07-05'
 
 ### STS 설치
 
-- 파일 이름 길이가 너무 길기에 줄인다
+- 파일 이름 길이가 너무 길기 때문에 줄인다
     - 예시) spring-tool-suite-4.jar
 
 ![Untitled](/images/JAVA_STS_setting/Untitled%2010.png)
@@ -112,7 +112,7 @@ date: '2022-07-05'
 - spring-tool-suite-4.jar → contents.zip 앞출풀고 들어간다
 - contents → sts-4.14.1.RELEASE 폴더를 안전한 경로에 복사 붙여넣기
 
-- string-tool-suite4를 복사하여 백업본 만들어둔다
+- string-tool-suite4를 복사하여 백업본을 만들어둔다
 - 우클릭 : string-tool-suite4 → 메모장으로 열기
 - 메모장에서 메모리를 수정
 - 램 용량을 표시
@@ -157,7 +157,7 @@ date: '2022-07-05'
 - 추가 방법
     - 1. Content types: 에서 3개 중에서 설정할 것을 선택
     - 2.다음과 같이 하단에 utf-8 적고 Update
-    1. 3개 모두 같은 방법으로 utf-8을 추가해준다.
+    1. 3개 모두 같은 방법으로 utf-8을 추가해준다
 
 ![Untitled](/images/JAVA_STS_setting/Untitled%2016.png)
 
@@ -191,7 +191,7 @@ date: '2022-07-05'
 - 11버전이므로 아래 2개중에서 아래 것을 체크
 - 13버전 이상일 때만 다음 그림과 다르게 체크
 - finish → 다음 페이지에서 위에 항목을 체크 → Apply and Close
-- *이후에 코드 실행하여 Linkage… 에러가 생기면 이 설정을 변경해보자.
+- *이후에 코드 실행하여 Linkage… 에러가 생기면 이 설정을 변경해보자
 
 ![Untitled](/images/JAVA_STS_setting/Untitled%2023.png)
 
@@ -208,8 +208,8 @@ date: '2022-07-05'
 
 ### JDK
 
-- JDK는 자바 개발도구(Java Development Kit)의 약자이다.
-- JDK는 JRE + 개발을 위해 필요한 도구(javac, java등)들을 포함한다.
+- JDK는 자바 개발도구(Java Development Kit)의 약자이다
+- JDK는 JRE + 개발을 위해 필요한 도구(javac, java등)들을 포함한다
 
 ![Untitled](/images/JAVA_STS_setting/Untitled%2026.png)
 
