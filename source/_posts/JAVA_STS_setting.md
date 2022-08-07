@@ -109,7 +109,7 @@ date: '2022-07-05'
 
 ![Untitled](/images/JAVA_STS_setting/Untitled%2010.png)
 
-- spring-tool-suite-4.jar → contents.zip 앞출풀고 들어간다
+- spring-tool-suite-4.jar → contents.zip 앞축을 풀고 들어간다
 - contents → sts-4.14.1.RELEASE 폴더를 안전한 경로에 복사 붙여넣기
 
 - string-tool-suite4를 복사하여 백업본을 만들어둔다
@@ -153,7 +153,7 @@ date: '2022-07-05'
 ### UTF-8 설정
 
 - window→preference → encoding 검색
-- java class file,  text, text→java Properties File  이 3개에 대해서 utf-8 추가한다.
+- java class file,  text, text→java Properties File  이 3개에 대해서 utf-8 추가한다
 - 추가 방법
     - 1. Content types: 에서 3개 중에서 설정할 것을 선택
     - 2.다음과 같이 하단에 utf-8 적고 Update
@@ -237,6 +237,6 @@ public class Main {
 }
 ```
 
-- 저장 후 실행 결과
+- 저장한 후에 실행한 결과
 
 ![Untitled](/images/JAVA_STS_setting/Untitled%2029.png)
