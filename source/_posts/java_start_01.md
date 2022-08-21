@@ -11,7 +11,7 @@ date: '2022-07-08'
 
 ### 코드 작성 팁
 
-- System.out.println() 쉽게 작성하기
+- System.out.println() 작성하는 단축키
     - `Syso` + ctrl + space 바
 - 한줄 복사
     - ctrl + alt + 아래방향키
