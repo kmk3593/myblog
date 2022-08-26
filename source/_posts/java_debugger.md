@@ -34,7 +34,7 @@ date: '2022-07-10'
 - 개발자모드를 열어놓은 상태에서 해당 영역에 도달한다
 
 - 브라우저 → 우클릭: 감사
-- Console 창에서 실행 )  함수를 복사 붙여넣는다
+- Console 창에서 실행)  함수를 복사해서 붙여넣는다
 - 함수를 호출한다
 
 ![Untitled](/images/java_debugger/Untitled%202.png)
