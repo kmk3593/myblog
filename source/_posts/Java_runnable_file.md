@@ -1,5 +1,5 @@
 ---
-title: "JAVA exception"
+title: "JAVA runnable_file"
 tags:
   - Java
 categories:
@@ -13,7 +13,7 @@ date: '2022-09-17'
 
 ### 자바 실행파일 생성 & 사용
 
-- 프로젝트 우클릭 → export → 검색:runnable
+- 프로젝트 우클릭 → export → 검색 : runnable
 
 ![Untitled](/images/Java_runnable_file/Untitled.png)
 
