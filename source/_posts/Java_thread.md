@@ -9,8 +9,6 @@ author: "minkuen"
 date: '2022-09-18'
 ---
 
-# Java_0620
-
 ### 상수와 enum
 
 - [ ]  **final 키워드**
