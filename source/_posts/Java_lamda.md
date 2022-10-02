@@ -8,9 +8,7 @@ categories:
 author: "minkuen"
 date: '2022-09-28'
 ---
-
-# Java_0621
-
+  
 ### 재귀함수
 
 - 자신을 정의할 때 자신을 리턴하는 함수
