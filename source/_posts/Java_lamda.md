@@ -154,7 +154,7 @@ public class Main {
 - 키(Key), 값(Value)의 쌍으로 이루어진 데이터의 집합
 - 함수 리스트
 add(), remove(), clear(), size()
-    - // 직접 위의 함수들 구현해보는것도 좋은 공부다.
+    - // 직접 위의 함수들 구현해보는 것도 좋은 공부다
     - private int[] nums,    private int current;
 
 ### String 문자열 클래스
