@@ -48,7 +48,7 @@ public class Main {
 자료 : [https://st-lab.tistory.com/240](https://st-lab.tistory.com/240)
 
 - 자바에서 미리 만들어놓은 데이터를 수집하고 관리(추가,생성,삭제,초기화,크기,리스트)해주는 목적의 클래스와 인터페이스
-- 왜사용하는가?
+- 왜 사용하는가?
     - 일관된 API
     - 프로그래밍의 노력 감소
     - 프로그램 속도 및 품질 향상
@@ -287,7 +287,7 @@ public class Box<T>{
     - 예  :1. 줄임이 없는 예
       `(String s) -> { System.out.println(s); }`
     
-      2. 매개변수가 하나일때 괄호생략. 본문이 하나일 때 중괄호와 세미콜론 생략
+      2. 매개변수가 하나일 때 괄호생략. 본문이 하나일 때 중괄호와 세미콜론 생략
        `s -> System.out.println(s)`
        `(a,b) -> a+b`
     
