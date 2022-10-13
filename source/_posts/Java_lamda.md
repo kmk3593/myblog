@@ -171,14 +171,14 @@ add(), remove(), clear(), size()
 	  public int getCountInclude(String str1, String str2){
 	      boolean include = true;
 	      int count = 0;
-	      include = str1.contains(str2);	//포함되었는지 참거짓 판단
+	      include = str1.contains(str2);	//포함되었는지 참,거짓 판단
 	      while(include) {	//포함되었다면
 	         count++;
 	         int where = str1.indexOf(str2);	//시작하는 위치 파악
 	         str1 = str1.substring(where+str2.length());
 	         System.out.println("str1 : "+str1);
-	         //방금찾은거를 빼고 남은 문자열을 부모로 업데이트
-	         //substring 함수는 인자가 하나면 해당위치부터 이후로 끝까지 자르는 함수
+	         //방금 찾은 거를 빼고 남은 문자열을 부모로 업데이트
+	         //substring 함수는 인자가 하나면 해당 위치부터 이후로 끝까지 자르는 함수
 	         include = str1.contains(str2);
 	      }
 	      return count;
@@ -193,7 +193,7 @@ add(), remove(), clear(), size()
 - Object 를 만들면 사용(저장, 로드)하기전에 형변환 작업을 해줘야 하는 불편함이 존재한다.
 - 범용 컬렉션의 장점과 특화된 클래스의 장점을 모두 겸비한 템플릿.
 - Java5에서 추가
-- 컬렉션, 람다식, 스트림, NIO(New IO)등에서 널리 사용되므로 제네릭을 이해하지 못하면 API 문서를 정확히 이해할 수 없다
+- 컬렉션, 람다식, 스트림, NIO(New IO)등에서 널리 사용되므로 제네릭을 이해하지 못하면 API 문서를 정확히 이해할 수 없다.
 
 - 목적
 - 자료형을 일반화. 정의시가 아니라 인스턴스 생성시 자료형을 결정하도록 한다.
