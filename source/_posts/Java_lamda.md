@@ -159,7 +159,7 @@ add(), remove(), clear(), size()
 
 ### String 문자열 클래스
 
-- 이제야 눈에 보이는 스트링. 원시타입이 아니다 (헷갈릴 수 있다)
+- 이제야 눈에 보이는 스트링. 원시타입이 아니다 (헷갈리지 않게 조심)
 - 자바에서 컬렉션으로 만들어 놓은 자료구조다
 - charAt(), compareTo(), concat(), indexOf(), trim(), toLowerCase(), toUpperCase(), substring, length(), isEmpty(), contains() 문자의 위치반환 없으면-1, matches(정규식) 등의 함수가 있다
 - 스트링은 값이 달라질 때 새로운 객체를 만들어서 할당받는다
