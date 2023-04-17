@@ -1,5 +1,3 @@
-# Vue.js 환경설정
-
 ---
 title: "Vue.js 기초 환경설정"
 tags:
@@ -12,6 +10,8 @@ author: "minkuen"
 date: '2023-04-17'
 ---
 
+
+# Vue.js 환경설정
 
 사전 설치 목록
 
