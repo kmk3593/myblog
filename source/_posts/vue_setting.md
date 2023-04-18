@@ -10,8 +10,7 @@ author: "minkuen"
 date: '2023-04-17'
 ---
 
-
-# Vue.js 환경설정
+[인프런 강의] ****Vue.js 시작하기 - Age of Vue.js****
 
 사전 설치 목록
 
