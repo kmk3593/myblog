@@ -46,7 +46,7 @@ npm install -g @vue/cli
 sudo npm install -g @vue/cli
 ```
 
-- 설치를 기다린다
+- 설치에 시간이 걸릴 수 있다. 대기한다.
 
 ![Untitled](/images/vue_cli/Untitled%201.png)
 
