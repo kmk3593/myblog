@@ -604,9 +604,3 @@ this.todoItems.splice(index, 1);
     }
     </style>
     ```
-    
-
-### 의문점
-
-- index.html 경로 - 강의와 다르다
-- vue
