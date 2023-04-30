@@ -9,8 +9,6 @@ author: "minkuen"
 date: '2023-04-25'
 ---
 
-# Vue CLI 실습
-
 [인프런 강의] ****Vue.js 시작하기 - Age of Vue.js****
 
 - 기존의 서버가 실행되고 있다면 종료 : `Ctrl + c`
