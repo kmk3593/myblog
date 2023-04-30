@@ -1,3 +1,14 @@
+---
+title: "Vue To-do 웹 구조 개선"
+tags:
+  - Vue.js
+  - Vue.js 기초
+categories:
+  - Vue.js
+author: "minkuen"
+date: '2023-04-30'
+---
+
 # 웹 구조 개선 (리펙토링)
 
 [강의] ****Vue.js 중급 강좌 - 웹 앱 제작으로 배워보는 Vue.js, ES6, Vuex****
@@ -5,13 +16,13 @@
 - 현재 앱 구조가 가진 문제점
 - 최신 데이터 반영이 매끄럽지 않다
 
-![Untitled](%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB%20(%E1%84%85%E1%85%B5%E1%84%91%E1%85%A6%E1%86%A8%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%86%BC)%20a938c36a30c8496b9f799d4a1318f74d/Untitled.png)
+![Untitled](/images/vue_refactoring/Untitled.png)
 
 - 개선한 앱 구조
 - 더 매끄러운 최신 데이터 반영
 - 작은 버전의 VueEx 구조
 
-![Untitled](%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB%20(%E1%84%85%E1%85%B5%E1%84%91%E1%85%A6%E1%86%A8%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%86%BC)%20a938c36a30c8496b9f799d4a1318f74d/Untitled%201.png)
+![Untitled](/images/vue_refactoring/Untitled%201.png)
 
 ### 리펙토링
 
@@ -156,7 +167,7 @@
 - 링크에서 기능을 미리 사용해보고 가져온다
 - <transition> 태그 내부만 복사해온다
 
-![Untitled](%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB%20(%E1%84%85%E1%85%B5%E1%84%91%E1%85%A6%E1%86%A8%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%86%BC)%20a938c36a30c8496b9f799d4a1318f74d/Untitled%202.png)
+![Untitled](/images/vue_refactoring/Untitled%202.png)
 
 - 폴더 생성 : components > common
 - 파일 생성 : components > common > Modal.vue
@@ -193,4 +204,4 @@
     - <Transition> 태그로 원하는 부분 감싸주면 된다
     - 천천히 To-do LIst에 추가되는 효과가 생긴다
 
-![Untitled](%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB%20(%E1%84%85%E1%85%B5%E1%84%91%E1%85%A6%E1%86%A8%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%86%BC)%20a938c36a30c8496b9f799d4a1318f74d/Untitled%203.png)
+![Untitled](/images/vue_refactoring/Untitled%203.png)
