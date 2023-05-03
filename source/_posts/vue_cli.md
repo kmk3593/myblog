@@ -15,10 +15,6 @@ date: '2023-05-03'
 
 [Vue CLI 공식 사이트 링크](https://cli.vuejs.org/)
 
----
-
-
-
 ### CLI란?
 
 - CLI = Command Line Interface
