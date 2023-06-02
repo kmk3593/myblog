@@ -232,7 +232,7 @@ public class Member {
 
 ### 트랜잭션
 
-- 간단하게 말하자면 DB Connection 이다
+- 간단하게 풀이하자면 DB Connection 이다
 - db 관련 기능 실행할 때마다 필요하다는 듯
 
 ```jsx
