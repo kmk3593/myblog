@@ -1,5 +1,5 @@
 ---
-title: "JPA 영속석 컨텍스트"
+title: "JPA 엔티티 매핑"
 tags:
   - JPA
   - JPA 기초
@@ -8,8 +8,6 @@ categories:
 author: "minkuen"
 date: '2023-06-15'
 ---
-
-# 엔티티 매핑
 
 [강의] ****자바 ORM 표준 JPA 프로그래밍 - 기본편****
 
