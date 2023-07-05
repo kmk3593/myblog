@@ -1,4 +1,14 @@
-# 고급 매핑
+---
+title: "JPA 고급 매핑"
+tags:
+  - JPA
+  - JPA 기초
+categories:
+  - JPA
+author: "minkuen"
+date: '2023-06-22'
+---
+
 
 [강의] ****자바 ORM 표준 JPA 프로그래밍 - 기본편****
 
@@ -39,7 +49,7 @@
 
 ### 단일 테이블 전략
 
-- 한 테이블에 모두 몰아넣는다
+- 한 테이블에 모두 몰아서 넣는다
 - 즉, JOIN 이 필요 없다
 
 ![Untitled](/images/jpa_advanced_mapping/Untitled%202.png)
