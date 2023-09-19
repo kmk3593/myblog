@@ -220,6 +220,7 @@ team.getName(); // 실제 team을 사용하는 시점에 초기화(DB 조회)**
 
 ### 고아 객체
 
+- 어감, 뜻이 신경 쓰인다면 'Orphan 객체' 라고 불러도 괜찮지 않을까
 - **고아 객체 제거**: 부모 엔티티와 **연관 관계가 끊어진 자식 엔티티를 자동으로 삭제**
 - orphanRemoval = true
 - Parent parent1 = em.find(Parent.class, id);
