@@ -110,10 +110,12 @@ select m.username from Team t join t.members m
 - 묵시적 조인은 조인이 일어나는 상황을 한눈에 파악하기 어려움
 
 ---
+---
+
 
 ## JPQL - 페치 조인 (fetch join)
 
-- **실무에서 정말정말 중요함**
+- **실무에서 정말 정말 중요함**
 
 ### 페치 조인 (fetch join)
 
